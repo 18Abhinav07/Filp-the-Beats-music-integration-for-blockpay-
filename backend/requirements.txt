@@ -1,3 +1,5 @@
 django-rest-framework
 django
 python-dotenv
+django-cors-headers
+djangorestframework
